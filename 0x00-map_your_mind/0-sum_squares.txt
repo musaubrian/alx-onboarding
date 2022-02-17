@@ -1,0 +1,6 @@
+Take input of Num1, Num2
+
+Num1squared = Num1 * Num1
+Num2squared = Num2 * Num2
+
+Sum_of_squares = Num1squared + Num2squared
