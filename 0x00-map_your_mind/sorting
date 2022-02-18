@@ -1,0 +1,28 @@
+Numbers = A, B, C
+
+		Read values of numbers
+		Check IF A > B:
+			Check IF B > C:
+				PRINT(A,B,C)
+			ELSE IF C > B:
+				Check IF A > C:
+					PRINT(A, C, B)
+				ELSE:
+					PRINT(C,A,B)
+		ELSE IF A < B:
+			CHeck IF A < C:
+				Check IF B > C:
+					PRINT(B, C, A)
+				ELSE: 
+					PRINT(C, B, A)
+			ELSE IF A > C:
+				PRINT(B, A, C)
+
+
+
+
+			WHILE num > 0:
+				num = Take Input
+				sum += num
+			Else:
+				PRINT(sum)
