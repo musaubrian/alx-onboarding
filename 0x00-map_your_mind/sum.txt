@@ -1,0 +1,9 @@
+num > 0
+
+Loop IF Num > 0:
+	num = take user input
+	set add = 0
+	sum = add + num
+ELSE:
+	PRINT(sum)
+	Exit Loop

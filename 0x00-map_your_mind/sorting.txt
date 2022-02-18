@@ -19,10 +19,3 @@ Numbers = A, B, C
 				PRINT(B, A, C)
 
 
-
-
-			WHILE num > 0:
-				num = Take Input
-				sum += num
-			Else:
-				PRINT(sum)
